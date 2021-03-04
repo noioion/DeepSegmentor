@@ -6,7 +6,6 @@ channels:
 - defaults
 dependencies:
 - python=3.5.5
-- pytorch=0.4.1
 - scipy
 - opencv3
 - scikit-image
@@ -18,3 +17,4 @@ dependencies:
   - torchvision==0.2.1
   - visdom==0.1.7
   - matplotlib
+  - pytorch=0.4.1
